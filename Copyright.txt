@@ -1,0 +1,22 @@
+B3GET - Copyright Notices
+=========================
+
+B3GET
+-----
+© 2026 Regents of the University of Minnesota. All rights reserved.
+
+This program is shared under the terms and conditions of the GNU General
+Public License 2.0. Further details about the GNU GPL 2.0 license are
+available in the License.txt file.
+
+
+Third-Party Software
+=====================
+
+NetLogo
+-------
+B3GET is built and runs on the NetLogo modeling environment.
+
+Copyright © 1999-2026 Uri Wilensky and the Center for Connected Learning
+and Computer-Based Modeling at Northwestern University. All rights
+reserved.
